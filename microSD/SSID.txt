@@ -1,0 +1,1 @@
+{ "ssid": "your SSID", "pass": "your SSID Password" }
